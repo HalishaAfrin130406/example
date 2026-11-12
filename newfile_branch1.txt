@@ -1,0 +1,5 @@
+this is file created only in branch1 not in main
+
+
+
+after merge of branch1 and main ,this file can occur in branch1
